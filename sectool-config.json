@@ -3,8 +3,7 @@
     {
       "class": "web-app",
       "rules": {
-        "os-command-injection": "alert",
-        "improper-certificate-validation": "alert"
+        "eval-with-expression": "alert",
       }
     }
   ]
